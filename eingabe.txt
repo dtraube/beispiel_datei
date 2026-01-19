@@ -1,0 +1,141 @@
+TESTDATEI – LANGER TEXT ZU PROGRAMMTESTZWECKEN
+
+Diese Textdatei wurde erstellt, um Programme beim Verarbeiten großer Textmengen zu testen.
+Der Inhalt ist absichtlich einfach, neutral und wiederholend gehalten.
+Es gibt keine versteckten Informationen, keine Sonderformatierungen und keine Bedeutung.
+Der Text ist nur dafür da, gelesen, geschrieben, analysiert oder verarbeitet zu werden.
+
+
+ABSCHNITT A – GRUNDLAGEN
+
+Dies ist eine einfache Zeile.
+Dies ist eine weitere einfache Zeile.
+Noch eine Zeile mit einfachem Text.
+Textdateien bestehen aus Zeichen, Zeilenumbrüchen und Absätzen.
+Programme müssen damit korrekt umgehen können.
+
+Viele Programme testen:
+- Einlesen von Dateien
+- Schreiben von Dateien
+- Durchsuchen von Text
+- Zählen von Zeichen
+- Zählen von Zeilen
+- Speicherverbrauch
+- Performance
+
+
+ABSCHNITT B – WIEDERHOLUNGEN
+
+Der folgende Text wiederholt sich mehrfach, um Länge zu erzeugen.
+
+Der schnelle braune Fuchs springt über den faulen Hund.
+Der schnelle braune Fuchs springt über den faulen Hund.
+Der schnelle braune Fuchs springt über den faulen Hund.
+Der schnelle braune Fuchs springt über den faulen Hund.
+Der schnelle braune Fuchs springt über den faulen Hund.
+
+Der schnelle braune Fuchs springt über den faulen Hund.
+Der schnelle braune Fuchs springt über den faulen Hund.
+Der schnelle braune Fuchs springt über den faulen Hund.
+Der schnelle braune Fuchs springt über den faulen Hund.
+Der schnelle braune Fuchs springt über den faulen Hund.
+
+
+ABSCHNITT C – FLIESSENDER TEXT
+
+Ein längerer zusammenhängender Text ist besonders hilfreich, um zu testen, wie ein Programm mit Absätzen umgeht.
+Dabei kann geprüft werden, ob Zeilenumbrüche korrekt erkannt werden oder ob der Text als ein Block gelesen wird.
+Solche Tests sind wichtig für Texteditoren, Parser, Analyseprogramme oder Suchfunktionen.
+
+Dieser Absatz enthält bewusst keine Sonderzeichen oder Formatierungen.
+Alles bleibt im einfachen ASCII- bzw. UTF-8-Bereich.
+So lassen sich Probleme leichter erkennen und Fehler besser nachvollziehen.
+
+Noch ein Absatz folgt hier, nur um den Text weiter zu verlängern.
+Je größer die Datei ist, desto besser lassen sich Grenzwerte testen.
+Speicher, Geschwindigkeit und Stabilität können damit überprüft werden.
+
+
+ABSCHNITT D – NUMMERN UND STRUKTUR
+
+Zeile 001
+Zeile 002
+Zeile 003
+Zeile 004
+Zeile 005
+Zeile 006
+Zeile 007
+Zeile 008
+Zeile 009
+Zeile 010
+
+Zeile 011
+Zeile 012
+Zeile 013
+Zeile 014
+Zeile 015
+Zeile 016
+Zeile 017
+Zeile 018
+Zeile 019
+Zeile 020
+
+Zeile 021
+Zeile 022
+Zeile 023
+Zeile 024
+Zeile 025
+Zeile 026
+Zeile 027
+Zeile 028
+Zeile 029
+Zeile 030
+
+
+ABSCHNITT E – ZEICHEN UND VARIATIONEN
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+0123456789
+
+! " § $ % & / ( ) = ? 
++ * # ' - _ . , ; : < > | @
+
+Leerzeichen sind wichtig.
+        Auch mehrere Leerzeichen hintereinander.
+Tabs		können ebenfalls vorkommen.
+Zeilenumbrüche
+sind
+entscheidend.
+
+
+ABSCHNITT F – MASSENINHALT
+
+Der folgende Textblock dient nur dazu, die Datei weiter zu vergrößern.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+
+ABSCHNITT G – ABSCHLIESSENDE ZEILEN
+
+Diese Datei kann beliebig weiter kopiert oder erweitert werden.
+Sie ist ideal für Tests mit kleinen oder großen Datenmengen.
+Falls dein Programm hiermit fehlerfrei funktioniert, ist das ein gutes Zeichen.
+
+ENDE DER TESTDATEI
